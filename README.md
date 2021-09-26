@@ -26,6 +26,13 @@ Demo
 * Make a new virtual-environment(recommended)
 * Install dependencies an libraries using `pip install -r requirements.txt`
 
+#### Training/Testing Guides:
+* Datasets are available in both splitted(train/val/test) and unsplitted form.
+* Here, I am using unsplitted datasets.
+* Dataset credit goes to <a href="https://github.com/prajnasb/observations/tree/master/experiements/data">Prajna Bhandary</a>because she created this datasets.
+* Then go along the notebook `Face_Mask_Detection_VGG16.py`
+* It is trained with VGG16 network model. VGG16 is a convolutional neural network model proposed by K. Simonyan and A.Find more about VGG16 <a href="https://neurohive.io/en/popular-networks/vgg16/">here</a>
+* Perform hyperparameter tuning to get more accurate model.
 
 #### Working Guides:
 - Open terminal/command prompt inside the downloaded/cloned directory</li>
