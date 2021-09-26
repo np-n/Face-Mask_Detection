@@ -16,7 +16,7 @@
 </ul>
 
 #### Installation Guides:
-**Note**: You must have Python 3.x installed in your system.
+**Note**: You must have `python 3.x` installed in your system.
 
 * Download the zip file of this repository or clone the repository using git
 * Make a new virtual-environment(recommended)
