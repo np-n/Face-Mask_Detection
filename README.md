@@ -18,16 +18,15 @@
 #### Installation Guides:
 **Note**: You must have Python 3.x installed in your system.
 
-*Download the zip file of this repository or clone the repository using git
-*Make a new virtual-environment(recommended)
-*Install dependencies an libraries using `pip install -r requirements.txt`
+* Download the zip file of this repository or clone the repository using git
+* Make a new virtual-environment(recommended)
+* Install dependencies an libraries using `pip install -r requirements.txt`
 
 
 #### Working Guides:
-<ul>
-<li>Open terminal/command prompt inside the downloaded/cloned directory</li>
-<li>Run python script `face_mask_detection_on_realtime.py`</li>
+- Open terminal/command prompt inside the downloaded/cloned directory</li>
+- Run python script `face_mask_detection_on_realtime.py`</li>
     - Enter `python face_mask_detection_on_realtime.py` in terminal
-<li>Your webcam will open,test it by wearing mask</li>
-<li>It will detect face-mask in real-time</li>
-</ul>
+- Your webcam will open,test it by wearing mask</li>
+- It will detect face-mask in real-time</li>
+
