@@ -1,8 +1,10 @@
 ### Face Mask Detector
 #### It detect's wheather the persons are wearing mask or not.
 #### It is built with following frameworks and libraries using the concepts of Computer Vision and Deep Learning.
+
 #### Frameworks:
-<ul><li>Tensorflow as Deep Learni</li></ul>
+<ul><li>Tensorflow as Deep Learning</li></ul>
+
 #### Libraries:
 <ul>
 <li>OpenCV</li>
@@ -25,7 +27,7 @@ Note: You must have Python 3.x installed in your system.
 <ul>
 <li>Open terminal/command prompt inside the downloaded/cloned directory</li>
 <li>Run python script `face_mask_detection_on_realtime.py`</li>
-    Enter `python face_mask_detection_on_realtime.py` in terminal
+    -Enter 'python face_mask_detection_on_realtime.py' in terminal
 <li>Your webcam will open,test it by wearing mask</li>
 <li>It will detect face-mask in real-time</li>
 </ul>
