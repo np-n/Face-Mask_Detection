@@ -1,5 +1,5 @@
 ### Face Mask Detector
-#### It detect's wheather the persons are wearing mask or not.
+#### It detect's whether the persons are wearing mask or not.
 Demo 
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/39429615/134803436-e3afcb80-2abd-4a9e-9885-a7b2f29f3cbe.gif)
