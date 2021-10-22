@@ -1,9 +1,9 @@
 ### Face Mask Detector
 #### It detect's whether the persons are wearing mask or not.
 Demo 
+https://user-images.githubusercontent.com/39429615/138399795-7d97aeb0-08dc-4003-a0d3-c7b7ba497098.mp4
 
-
-#### It is built with following frameworks and libraries using the concepts of Computer Vision and Deep Learning.
+#### It is built withhttps://user-images.githubusercontent.com/39429615/138399795-7d97aeb0-08dc-4003-a0d3-c7b7ba497098.mp4 following frameworks and libraries using the concepts of Computer Vision and Deep Learning.
 
 #### Frameworks:
 <ul><li>Tensorflow as Deep Learning</li></ul>
