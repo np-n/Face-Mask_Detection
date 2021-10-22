@@ -1,10 +1,10 @@
 ### Face Mask Detector
-#### It detect's wheather the persons are wearing mask or not.
+#### It detect's whether the persons are wearing mask or not.
 Demo 
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/39429615/134803436-e3afcb80-2abd-4a9e-9885-a7b2f29f3cbe.gif)
+https://user-images.githubusercontent.com/39429615/138399795-7d97aeb0-08dc-4003-a0d3-c7b7ba497098.mp4
 
-#### It is built with following frameworks and libraries using the concepts of Computer Vision and Deep Learning.
+#### It is built withhttps://user-images.githubusercontent.com/39429615/138399795-7d97aeb0-08dc-4003-a0d3-c7b7ba497098.mp4 following frameworks and libraries using the concepts of Computer Vision and Deep Learning.
 
 #### Frameworks:
 <ul><li>Tensorflow as Deep Learning</li></ul>
@@ -29,7 +29,7 @@ Demo
 #### Training/Testing Guides:
 * Datasets are available in both splitted(train/val/test) and unsplitted form.
 * Here, I am using unsplitted datasets.
-* Dataset credit goes to <a href="https://github.com/prajnasb/observations/tree/master/experiements/data">Prajna Bhandary</a>because she created this datasets.
+* Dataset credit goes to <a href="https://github.com/prajnasb/observations/tree/master/experiements/data">Prajna Bhandary </a>because she created this datasets.
 * Then go along the notebook `Face_Mask_Detection_VGG16.py`
 * It is trained with VGG16 network model. VGG16 is a convolutional neural network model proposed by K. Simonyan and A.Find more about VGG16 <a href="https://neurohive.io/en/popular-networks/vgg16/">here</a>
 * Perform hyperparameter tuning to get more accurate model.
