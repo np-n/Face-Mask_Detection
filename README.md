@@ -4,7 +4,7 @@ Demo
 
 <img src="https://github.com/np-n/Face-Mask_Detection/blob/master/output/face-mask-detection.gif">
 
-#### It is built withhttps://user-images.githubusercontent.com/39429615/138399795-7d97aeb0-08dc-4003-a0d3-c7b7ba497098.mp4 following frameworks and libraries using the concepts of Computer Vision and Deep Learning.
+#### It is built with the following frameworks and libraries using the concepts of Computer Vision and Deep Learning.
 
 #### Frameworks:
 <ul><li>Tensorflow as Deep Learning</li></ul>
